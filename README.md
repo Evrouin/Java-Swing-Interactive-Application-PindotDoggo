@@ -12,3 +12,8 @@ The application has nine (9) distinct emotions, each of which corresponds to a s
 ![open mouth](https://user-images.githubusercontent.com/72487125/126143525-5febbb00-b947-45a3-8d6a-905f99480d47.png)
 ![super crying](https://user-images.githubusercontent.com/72487125/126143529-42d15b68-3d0f-4d15-884f-da5264c89356.png)
 ![tampo](https://user-images.githubusercontent.com/72487125/126143531-3c19ac68-5414-4142-b7a5-69d958ee8fc9.png)
+
+# Demonstration Video
+https://user-images.githubusercontent.com/72487125/126154378-2468dd8e-7180-4a19-9f47-57f14dfa3d80.mp4
+
+
