@@ -14,6 +14,6 @@ The application has nine (9) distinct emotions, each of which corresponds to a s
 ![tampo](https://user-images.githubusercontent.com/72487125/126143531-3c19ac68-5414-4142-b7a5-69d958ee8fc9.png)
 
 # Demonstration Video
-https://user-images.githubusercontent.com/72487125/126154378-2468dd8e-7180-4a19-9f47-57f14dfa3d80.mp4
+https://user-images.githubusercontent.com/72487125/126154582-fb64758e-fcd5-438c-86c0-f52ab5c17084.mp4
 
 
