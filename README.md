@@ -2,6 +2,7 @@
 This is a simple Java Swing implementation in the form of an interactive application. PindotDoggo is an interactive application that allows you to interact with a dog by clicking or moving the cursor in a specific area.
 
 # PindotDoggo Interactions
+The application has nine (9) distinct emotions, each of which corresponds to a specific mouse movement or click action.
 ![angy](https://user-images.githubusercontent.com/72487125/126143514-89779c6f-338b-4122-bab4-a4cc64655f2d.png)
 ![cool](https://user-images.githubusercontent.com/72487125/126143518-01ed7395-27e2-45f3-a4a0-ff2a2b200af5.png)
 ![gulat](https://user-images.githubusercontent.com/72487125/126143519-d3f247b2-d52a-47fa-b55b-900b8d13040f.png)
